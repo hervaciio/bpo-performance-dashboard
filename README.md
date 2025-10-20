@@ -7,15 +7,19 @@ This Power BI dashboard analyzes key metrics for a BPO team:
 - Customer Satisfaction (CSAT)
 - Abandonment %
 
-📂 **Files:**
-- `BPO_Dashboard_PowerBI.pbix` — main Power BI file
-- `calls_clean.csv` — sample dataset
-- `dashboard_preview.png` — dashboard screenshot
+## 📂 Files
+| File | Description |
+|------|--------------|
+| `data/calls_clean.xlsx` | Simulated telecom customer dataset |
+| `images/dashboard_preview.png` | Dashboard preview image |
+| `notebooks/Calls Synthetic Dataset.ipynb` | Jupyter Notebook for Dataset|
+| `powerbi/BPO_Dashboard_PowerBI.pbix` | Power BI dashboard visualization |
+| `requirements/libraries.txt` | Python Libraries for Dataset |
 
 ⚙️ **Tools Used:**
 - Power BI
 - DAX
-- Excel / CSV
+- Excel
 - Data Modeling and Visualization
 
 💡 **Key Insights:**
@@ -23,4 +27,5 @@ This Power BI dashboard analyzes key metrics for a BPO team:
 - SLA maintained at 84% on average
 - Monday and Tuesday show higher call volumes
 
-👤 **Created by:** Karen Gervacio
+**Author:** [Karen Gervacio]  
+**Date:** November 2025
